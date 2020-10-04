@@ -9,7 +9,7 @@
 
 ## Animations
 
-You can see the related source code by clicking on link below.
+You can see the related source code by clicking on the links below.
 
 ### <a href="/Animations/Animations/TouchRender.swift">Touch Render (Uses SprikeKit) </a>
 
