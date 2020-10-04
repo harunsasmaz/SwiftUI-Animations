@@ -11,46 +11,47 @@
 
 * You can find all source code under /Animations/Animations
 
-### <a href="/Animations/Animations/TouchRender.swift">Touch Render (Uses SprikeKit)</a>
+### <a href="/Animations/Animations/TouchRender.swift">Touch Render (Uses SprikeKit) </a>
+
+![](Gifs/touchrender.gif)
+
+### <a href="/Animations/Animations/CircleLoading.swift">Circle Loading </a>
 
 
-### Circle Loading
+### <a href="/Animations/Animations/DarkModeToggle.swift">Darkmode Toggle </a>
 
 
-### Darkmode Toggle
+### <a href="/Animations/Animations/DownloadButton.swift">Download Button </a>
 
 
-### Download Button
+### <a href="/Animations/Animations/FluidLoading.swift">Fluid Loading </a>
 
 
-### Fluid Loading
+### <a href="/Animations/Animations/MusicAnimation.swift">Music Animation </a>
 
 
-### Music Animation
+### <a href="/Animations/Animations/PipeLoading.swift"> Pipe Loading </a>
 
 
-### Pipe Loading
+### <a href="/Animations/Animations/PlaneLoading.swift"> Plane Loading </a>
 
 
-### Plane Loading
+### <a href="/Animations/Animations/Radar.swift"> Radar </a>
 
 
-### Radar
+### <a href="/Animations/Animations/Search.swift"> Search </a>
 
 
-### Search
+### <a href="/Animations/Animations/SideRotateMenu.swift"> Side Rotation Menu </a>
 
 
-### Side Rotation Menu
+### <a href="/Animations/Animations/SplitMenu.swift"> Split Menu </a>
 
 
-### Split Menu
+### <a href="/Animations/Animations/TabBar.swift"> Tab Bar </a>
 
 
-### Tab Bar
+### <a href="/Animations/Animations/VoiceRecord.swift"> Voice Record </a>
 
 
-### Voice Record
-
-
-### Wifi
+### <a href="/Animations/Animations/Wifi Search.swift"> Wifi Search </a>
