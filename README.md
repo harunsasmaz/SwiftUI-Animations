@@ -19,6 +19,10 @@ You can see the related source code by clicking on the links below.
 
 ![](Gifs/circleloading.gif)
 
+### <a href="/Animations/Animations/DNALoading.swift"> DNA Loading </a>
+
+![](Gifs/DNALoading.gif)
+
 ### <a href="/Animations/Animations/DarkModeToggle.swift"> Darkmode Toggle </a>
 
 ![](Gifs/darkmode.gif)
@@ -67,6 +71,7 @@ You can see the related source code by clicking on the links below.
 
 ![](Gifs/voicerecord.gif)
 
-### <a href="/Animations/Animations/Wifi Search.swift"> Wifi Search </a>
+### <a href="/Animations/Animations/WifiSearch.swift"> Wifi Search </a>
 
 ![](Gifs/Wifi.gif)
+
