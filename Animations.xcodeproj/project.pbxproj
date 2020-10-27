@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		457E38F42548B40E00888E2B /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457E38F32548B40E00888E2B /* SearchBar.swift */; };
 		459067CE2528BDDC00C9A091 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459067CD2528BDDC00C9A091 /* TabBar.swift */; };
 		459067D12528BFB900C9A091 /* CircleLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459067D02528BFB900C9A091 /* CircleLoading.swift */; };
 		45975309252DD69F0080DAF2 /* DNALoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45975308252DD69F0080DAF2 /* DNALoading.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		457E38F32548B40E00888E2B /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		459067CD2528BDDC00C9A091 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 		459067D02528BFB900C9A091 /* CircleLoading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleLoading.swift; sourceTree = "<group>"; };
 		45975308252DD69F0080DAF2 /* DNALoading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DNALoading.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				459067D02528BFB900C9A091 /* CircleLoading.swift */,
 				45975308252DD69F0080DAF2 /* DNALoading.swift */,
 				459FBAD02541EAF6001B7103 /* GhostView.swift */,
+				457E38F32548B40E00888E2B /* SearchBar.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 				45D2713825250508002B3748 /* MusicAnimation.swift in Sources */,
 				459067D12528BFB900C9A091 /* CircleLoading.swift in Sources */,
 				45D271182524EE16002B3748 /* SceneDelegate.swift in Sources */,
+				457E38F42548B40E00888E2B /* SearchBar.swift in Sources */,
 				45B036FC2525CDFB00F72BB8 /* PipeLoading.swift in Sources */,
 				45D27136252503F6002B3748 /* Search.swift in Sources */,
 				45D2711A2524EE16002B3748 /* ContentView.swift in Sources */,
