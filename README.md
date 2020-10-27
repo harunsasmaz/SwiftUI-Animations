@@ -55,7 +55,11 @@ You can see the related source code by clicking on the links below.
 
 ![](Gifs/radar.gif)
 
-### <a href="/Animations/Animations/Search.swift"> Search </a>
+### <a href="/Animations/Animations/Search.swift"> Search Bar I </a>
+
+![](Gifs/searchbar.gif)
+
+### <a href="/Animations/Animations/Search.swift"> Search Bar II </a>
 
 ![](Gifs/search.gif)
 
