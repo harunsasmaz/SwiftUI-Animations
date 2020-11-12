@@ -12,6 +12,7 @@
 		459067D12528BFB900C9A091 /* CircleLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459067D02528BFB900C9A091 /* CircleLoading.swift */; };
 		45975309252DD69F0080DAF2 /* DNALoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45975308252DD69F0080DAF2 /* DNALoading.swift */; };
 		459FBAD12541EAF6001B7103 /* GhostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459FBAD02541EAF6001B7103 /* GhostView.swift */; };
+		45A277CE255D912C009F7C8C /* HourGlass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A277CD255D912C009F7C8C /* HourGlass.swift */; };
 		45A3260D2525D4080099E9A1 /* TouchRender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A3260C2525D4080099E9A1 /* TouchRender.swift */; };
 		45B036FC2525CDFB00F72BB8 /* PipeLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B036FB2525CDFB00F72BB8 /* PipeLoading.swift */; };
 		45B036FE2525CFE200F72BB8 /* DownloadButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B036FD2525CFE200F72BB8 /* DownloadButton.swift */; };
@@ -39,6 +40,7 @@
 		459067D02528BFB900C9A091 /* CircleLoading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleLoading.swift; sourceTree = "<group>"; };
 		45975308252DD69F0080DAF2 /* DNALoading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DNALoading.swift; sourceTree = "<group>"; };
 		459FBAD02541EAF6001B7103 /* GhostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GhostView.swift; sourceTree = "<group>"; };
+		45A277CD255D912C009F7C8C /* HourGlass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourGlass.swift; sourceTree = "<group>"; };
 		45A3260C2525D4080099E9A1 /* TouchRender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchRender.swift; sourceTree = "<group>"; };
 		45B036FB2525CDFB00F72BB8 /* PipeLoading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PipeLoading.swift; sourceTree = "<group>"; };
 		45B036FD2525CFE200F72BB8 /* DownloadButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadButton.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				45975308252DD69F0080DAF2 /* DNALoading.swift */,
 				459FBAD02541EAF6001B7103 /* GhostView.swift */,
 				457E38F32548B40E00888E2B /* SearchBar.swift */,
+				45A277CD255D912C009F7C8C /* HourGlass.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 				45D2712C2524F525002B3748 /* SplitMenu.swift in Sources */,
 				45D2713425250348002B3748 /* Radar.swift in Sources */,
 				45B036FE2525CFE200F72BB8 /* DownloadButton.swift in Sources */,
+				45A277CE255D912C009F7C8C /* HourGlass.swift in Sources */,
 				45D2712A2524EE45002B3748 /* SideRotateMenu.swift in Sources */,
 				459067CE2528BDDC00C9A091 /* TabBar.swift in Sources */,
 				45D271162524EE16002B3748 /* AppDelegate.swift in Sources */,
