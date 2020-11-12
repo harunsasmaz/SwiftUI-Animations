@@ -15,6 +15,10 @@ You can see the related source code by clicking on the links below.
 
 ![](Gifs/touchrender.gif)
 
+### <a href="/Animations/Animations/HourGlass.swift"> Hourglass </a>
+
+![](Gifs/hourglass.gif)
+
 ### <a href="/Animations/Animations/GhostView.swift"> Ghost </a>
 
 ![](Gifs/ghost.gif)
